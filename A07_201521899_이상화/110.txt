@@ -1,0 +1,20 @@
+문제1)
+(a) Lecture 07의 방식(Documentation Comments 21쪽부터 25쪽 참고)으로
+주석을 작성하였는가? (클래스당 5점, 최대15점): 
+취득 점수: (15점) 취득 사유: (문제 1번의 TravelPoint,Counter클래스와 메소드)
+(b) Superclass, Subclass, Abstract, Interface Class를 사용하였는가? (각5점,
+최대20점): 취득 점수: (5점) 취득 사유: (PointNum클래스)
+(c) Protected, Private Access를 사용하였는가? (각5점, 최대10점):
+취득 점수:(10점) 취득 사유: (TravelPoint, Counter 클래스의 time, name, maxTime 필드)
+(d) Overriding/Overloading Method를 사용하였는가? (각5점, 최대10점): 취득
+점수: (5점) 취득 사유: (Counter클래스의 각 메소드들)
+(e) 매개변수가 있는 생성자를 선언 및 정의하고, 사용하였는가? (최대5점): 취
+득 점수: (5점) 취득 사유: (Counter클래스,TravelPoint클래스의 생성자)
+(f) 그 외 Polymorphism, Inheritance, Encapsulation을 사용하였다면? (각5
+점, 최대15점): 취득 점수: (15점) 취득 사유: (Main클래스의 Pointnum객체 cnt선언 Counter메소드 사용,
+PointNum클래스 상속, TravelPoint클래스 time,name,check 필드)
+(g) Lecture 09의 ArrayList, getClass(), enum을 사용하였는가? (각5점, 최대15
+점): 취득 점수: (5점) 취득 사유: (Counter클래스에서 TravelPoint의 ArrayList 사용)
+
+문제2)
+(h) 테스트케이스 5개 (통과시 개당 10점 획득): 취득 점수: (50점) 취득 사유: (다섯 케이스모두 일치)
